@@ -1,0 +1,7 @@
+data: data/split_01/train     # folder of track CSVs
+epochs: 1500
+batch_size: 64
+learning_rate: 1.0e-5
+val_fraction: 0.2             # share of windows held out for validation
+seed: 0                       # seed of the train/validation split
+out: runs/split01             # the final model is saved as <out>/model_final.pt

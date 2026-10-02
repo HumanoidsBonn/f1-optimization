@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+/cache/
+/telemetry/
+/runs/
+/*_nn.csv
+/*_nn.png
+/*_aligned.csv
+/*_aligned.png

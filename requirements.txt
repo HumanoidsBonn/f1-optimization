@@ -1,0 +1,7 @@
+numpy
+pandas
+scipy
+torch
+pyyaml
+matplotlib
+fastf1==3.5.3
